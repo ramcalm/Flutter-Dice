@@ -2,6 +2,8 @@
 
 Basic Dice App
 
+![Drag Racing](SS.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
